@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Braille Box IOIO</string>
+    <string name="menu_settings">Settings</string>
+    <string name="say_ready">พร้อมใช้งาน</string>
+    <string name="say_deleted">ลบแล้ว</string>
+    <string name="say_delete">ลบ</string>
+    <string name="say_clear">ล้างค่า</string>
+    <string name="say_added">เพิ่มแล้ว</string>
+    <string name="say_add">เพิ่ม</string>
+    <string name="say_spacebar">เว้นวรรค</string>
+    <string name="say_press_enter_to_start">กดปุ่ม เอ็นเทอร์ เพื่อเริ่มทดสอบ</string>
+    <string name="say_example_no">แบบฝึกหัดข้อที่</string>
+    <string name="say_enter_braille">พิมพ์อักษรเบรลล์ของตัวอักษร</string>
+    <string name="say_answer_is">คำตอบคือ</string>
+
+</resources>
